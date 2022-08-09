@@ -1,0 +1,1 @@
+http://sunguru-infra.blogspot.com/2018/04/centos-73-62-dhcp.html
